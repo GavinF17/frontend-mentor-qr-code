@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-[//]: # (- Solution URL: [Add solution URL here]&#40;https://your-solution-url.com&#41;)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-using-html-and-css-with-flexbox-uXJ6cxeiMU)
 - [Live Site](https://qr-code.fm.gavinfenton.com)
 
 ## My process
